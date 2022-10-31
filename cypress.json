@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://live-hack-medusa-storefront-next.appa.pantheon.site",
+  "baseUrl": "https://store.cyruskia.com",
   "env": {
     "codeCoverage": {
       "url": "/api/__coverage__"
