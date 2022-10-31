@@ -5,7 +5,7 @@ module.exports = withStoreConfig({
   features: store.features,
   reactStrictMode: true,
   images: {
-    domains: ["medusa-file-server.s3.us-east-2.amazonaws.com", "localhost"],
+    domains: ["medusa-file-server.s3.us-east-2.amazonaws.com", "localhost", "live-hack-medusa-storefront-next.appa.pantheon.site"],
   },
 })
 
